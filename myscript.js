@@ -2,7 +2,7 @@ function myfunction() {
  document.getElementById("btn").innerHTML = "Click Here";  
 }
 function myfunction1() {
- document.getElementById("text").innerHTML = "How are you?";
+ document.getElementById("text").innerHTML = "Hello Buddy!?";
 }
     
 function array1() {
